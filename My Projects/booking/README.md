@@ -1,4 +1,4 @@
-Hotel Reservation Booking Wed App with React
+Hotel Reservations Booking Wed App with React
 
 
 ![FireShot Capture 007 - React App - localhost](https://user-images.githubusercontent.com/51807673/165963549-f8acee40-b050-487b-afaf-a22ca8eb8f44.png)
